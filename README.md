@@ -8,3 +8,4 @@
 
 </body>
 </html>
+<img src=”(https://qrcodechimp.s3.amazonaws.com/blog/wp-content/uploads/2020/10/scan-qr-code-on-android.png)”>
